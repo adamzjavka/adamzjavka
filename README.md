@@ -1,10 +1,12 @@
-### Hi, I'm Adam 👋
+## Adam Zjavka
 
-Data engineer from Prague, moving into AI engineering.
+Data and analytics engineer from Prague, moving into AI engineering. Two years on the Microsoft data stack, then three months building a GenAI tool on Azure. Next I want to build LLM applications and agents that run in production.
 
-- 🔧 Two years on the Microsoft data stack: **Power BI, Microsoft Fabric, Snowflake, SQL, DAX**, incl. ETL pipelines for an Azure → Fabric migration
-- 🤖 Production LLM work in **Python, FastAPI, LangChain and LangGraph** on Azure
-- 🌱 Currently learning **dbt** and building a data pipeline with an AI agent and evals on top
-- 🎓 Ing. in Data Analytics for Business, Prague University of Economics and Business (VŠE)
+**What I have worked on**
+- A production tool over Czech public data sources with an LLM research layer, built in Python and FastAPI on Azure
+- An AI agent in Copilot Studio, integrated into Teams
+- Migrating Power BI capacities from Azure to Microsoft Fabric and rebuilding the ETL pipelines from Snowflake into the Fabric warehouse
+- Power BI reporting for automotive and manufacturing clients
 
-📫 [LinkedIn](https://www.linkedin.com/in/TVOJ-PROFIL)
+**Stack**
+Power BI · Microsoft Fabric · Snowflake · SQL · Python · FastAPI · LangChain / LangGraph · Azure OpenAI · Copilot Studio · Docker · Git
